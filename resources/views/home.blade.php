@@ -59,7 +59,7 @@
                                 @else
                                     <tr>
                                         <td colspan="5">
-                                            <h3 class="text-danger text-center">No Note is found</h3>
+                                            <h3 class="text-danger text-center">No note is found</h3>
                                         </td>
                                     </tr>
                                 @endif
